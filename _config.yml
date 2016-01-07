@@ -1,7 +1,7 @@
 name: ThijsMorlion
 favicon: null
-layout_spectrum: 0.42745
-typography_spectrum: 0.4227015811484307
+layout_spectrum: 0.51776
+typography_spectrum: 0.71048
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9850825555622578
-  lightness: 0.4281308639328927
-  saturation: 0.2355003017000854
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.125
   rhythmicContrast: 0.20790018187835813
 purpose: []
