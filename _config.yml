@@ -1,7 +1,7 @@
 name: ThijsMorlion
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.71048
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5
-  lightness: 0.1875
-  saturation: 0.125
-  rhythmicContrast: 0.20790018187835813
+    - '#f4f3f9'
+    - '#010623'
+    - '#d8d0bd'
+    - '#43464f'
+    - '#827968'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
