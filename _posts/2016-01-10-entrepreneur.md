@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T11:05:10.419Z'
-dateModified: '2016-01-10T11:04:54.811Z'
+datePublished: '2016-01-10T11:09:16.544Z'
+dateModified: '2016-01-10T11:08:39.158Z'
 title: Entrepreneur
 author: []
+sourcePath: _posts/2016-01-10-entrepreneur.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-entrepreneur.md
-published: true
 _type: Blurb
 
 ---
